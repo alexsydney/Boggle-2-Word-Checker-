@@ -1,3 +1,6 @@
+https://github.com/alexsydney/Boggle-2-Word-Checker-/tree/master
+
+
 Boggle-2-Word-Checker-
 Using your basic BoggleBoard generator from before, we're now going to model a person checking whether a given word is on the Boggle board or not.
 Learning Competencies
